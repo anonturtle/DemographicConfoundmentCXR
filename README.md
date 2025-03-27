@@ -18,7 +18,9 @@ The procedure involves the following steps:
    
 By applying this approach, we quantify the extent to which extraneous demographic attributes or disease states influence our demographic classifying models' outcomes.
 
-![image](https://github.com/user-attachments/assets/7e0ce0d9-46a3-4b53-8fcb-42cbb4625fe5)
+![image](https://github.com/user-attachments/assets/dd497080-b5e8-450e-928b-1d5e5b1c4af2)
+
+
 
 
 # Terminology Notes
